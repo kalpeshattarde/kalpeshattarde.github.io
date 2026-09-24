@@ -2,11 +2,12 @@
 
 # 👋 Kalpesh Attarde
 
-### Operational & Growth Strategist | AI Automation Engineer | Founder, AKcelerateHQ
+### Operational & Growth Strategist - 5+ year | AI Automation Engineer | Founder, AKcelerateHQ
 
-I combine **5+ years of operational and growth strategy experience** with AI automation, software systems, cloud infrastructure, and DevOps to help businesses improve how they operate and grow.
+I combine **5+ years of operational and growth strategy experience** with AI automation, software systems, cloud infrastructure, and DevOps to help businesses reduce manual work, improve execution, and create scalable growth systems.
 
-📧 **Business email:** [akceleratehq@gmail.com](mailto:akceleratehq@gmail.com)
+📧 **Business email:** [akceleratehq@gmail.com](mailto:akceleratehq@gmail.com)  
+📱 **WhatsApp:** [+91 82085 55380](https://wa.me/918208555380)
 
 [Personal Portfolio](https://kalpeshattarde.github.io/) · [AKcelerateHQ](https://akceleratehq.com/) · [LinkedIn](https://www.linkedin.com/in/kalpeshattarde/) · [GitHub](https://github.com/kalpeshattarde)
 
@@ -16,8 +17,7 @@ I combine **5+ years of operational and growth strategy experience** with AI aut
 
 ## Experience
 
-### Operational & Growth Strategist
-**5+ years of experience**
+### Operational & Growth Strategist - 5+ year
 
 - Helped **10+ MSMEs and mini startups** improve operations and work toward business growth.
 - Built operational improvement strategies and practical growth plans for new and existing companies.
@@ -33,6 +33,57 @@ I combine **5+ years of operational and growth strategy experience** with AI aut
 - Deploy applications and automation infrastructure on AWS, Azure, GCP, Hostinger, and VPS environments.
 - Add monitoring, logging, alerts, retries, error handling, and operational documentation.
 - Support LLM cost optimization, cloud cost optimization, DevOps, and DevSecOps practices.
+
+---
+
+## Featured Projects & Business Impact
+
+### 1. AI Lead Qualification System
+
+- Captures enquiries and evaluates lead quality.
+- Routes qualified prospects and updates CRM records.
+- Helps sales teams reduce manual screening time and follow up faster.
+- Supports better conversion opportunities by reducing delays between enquiry and response.
+- [Explore portfolio](https://github.com/kalpeshattarde/AKcelerateHQ-Portfolio.github.io)
+
+### 2. WhatsApp Business Automation
+
+- Automates customer communication, reminders, notifications, campaigns, and structured data collection.
+- Reduces repetitive messaging and missed follow-ups.
+- Helps teams respond faster and maintain consistent customer communication.
+- Supports retention, lead nurturing, and revenue conversion workflows.
+- [Discuss a WhatsApp automation project](https://wa.me/918208555380?text=I%20want%20to%20discuss%20WhatsApp%20automation.)
+
+### 3. Mentorship Payment Tracker
+
+- Connects payment events, Pabbly workflows, Google Sheets, and Google Apps Script.
+- Tracks payments, pending balances, program status, and audit information.
+- Reduces manual reconciliation and improves visibility into collections.
+- Helps teams follow up on pending payments with better data consistency.
+- [Explore portfolio](https://github.com/kalpeshattarde/AKcelerateHQ-Portfolio.github.io)
+
+### 4. Social Media Reporting Dashboard
+
+- Collects post-level data across LinkedIn, YouTube, Instagram, and Facebook.
+- Connects APIs with Google Sheets and dashboard reporting tools.
+- Reduces recurring reporting work and improves access to performance data.
+- Helps teams identify content and campaign opportunities that may contribute to growth.
+- [Explore portfolio](https://github.com/kalpeshattarde/AKcelerateHQ-Portfolio.github.io)
+
+### 5. RAG Knowledge Assistant
+
+- Connects business documents and internal knowledge to an AI assistant.
+- Helps teams retrieve information without repeatedly searching files or asking the same questions.
+- Reduces information lookup time and supports faster internal decision-making.
+- [Explore portfolio](https://github.com/kalpeshattarde/AKcelerateHQ-Portfolio.github.io)
+
+### 6. Custom Internal Tools & Mini SaaS
+
+- Builds focused tools around specific business workflows.
+- Connects forms, APIs, databases, dashboards, and user actions.
+- Replaces fragmented manual processes with repeatable systems.
+- Creates additional capacity for higher-value and revenue-generating work.
+- [Visit AKcelerateHQ](https://akceleratehq.com/)
 
 ---
 
@@ -53,17 +104,6 @@ I combine **5+ years of operational and growth strategy experience** with AI aut
 - DevOps and DevSecOps
 - LLM and cloud cost optimization
 - Dashboards and reporting systems
-
----
-
-## Featured Work
-
-- **AI Lead Qualification Systems** — enquiry capture, lead evaluation, routing, CRM updates, and follow-ups.
-- **WhatsApp Business Automation** — customer communication, lead capture, notifications, and campaign workflows.
-- **AI Candidate Screening** — resume extraction, role-fit evaluation, interview support, and human review.
-- **Business Reporting Automation** — automated data collection, transformation, recurring reports, and dashboards.
-- **RAG & AI Assistants** — retrieval-based assistants connected to business knowledge and internal data.
-- **Custom SaaS & Internal Tools** — focused software products for business-specific workflows.
 
 ---
 
@@ -93,6 +133,7 @@ I combine **5+ years of operational and growth strategy experience** with AI aut
 ## Connect
 
 - **Business email:** [akceleratehq@gmail.com](mailto:akceleratehq@gmail.com)
+- **WhatsApp:** [+91 82085 55380](https://wa.me/918208555380)
 - **Business website:** [akceleratehq.com](https://akceleratehq.com/)
 - **Personal portfolio:** [kalpeshattarde.github.io](https://kalpeshattarde.github.io/)
 - **LinkedIn:** [Kalpesh Attarde](https://www.linkedin.com/in/kalpeshattarde/)
