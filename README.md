@@ -7,7 +7,7 @@
 I help businesses reduce repetitive work, connect their tools, and build reliable automation systems using AI, APIs, cloud infrastructure, and custom software.
 
 [![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-Visit-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalpeshattarde.github.io/)
-[![Business Portfolio](https://img.shields.io/badge/Business%20Portfolio-AKcelerateHQ-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akceleratehq.com/)
+[![Business Portfolio](https://img.shields.io/badge/Business%20Portfolio-AKcelerateHQ-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.akceleratehq.com/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918208555380?text=Hi%20Kalpesh%2C%20I%20want%20to%20discuss%20an%20automation%20project)
 
 </div>
@@ -21,7 +21,7 @@ I help businesses reduce repetitive work, connect their tools, and build reliabl
 | **Personal Portfolio** | Professional profile, experience, projects, and career journey | [kalpeshattarde.github.io](https://kalpeshattarde.github.io/) |
 | **Personal GitHub Repository** | Source code, automation projects, SaaS prototypes, and technical work | [github.com/kalpeshattarde/kalpeshattarde.github.io](https://github.com/kalpeshattarde/kalpeshattarde.github.io) |
 | **GitHub Profile** | All public repositories and technical work | [github.com/kalpeshattarde](https://github.com/kalpeshattarde) |
-| **Business Portfolio — AKcelerateHQ** | AI automation, custom SaaS, cloud setup, DevOps, DevSecOps, and business systems | [akceleratehq.com](https://akceleratehq.com/) |
+| **Business Portfolio — AKcelerateHQ** | AI automation, custom SaaS, cloud setup, DevOps, DevSecOps, and business systems | [akceleratehq.com](https://www.akceleratehq.com/) |
 | **AKcelerateHQ Project Repository** | Business automation solution portfolio and project case studies | [AKcelerateHQ Portfolio](https://github.com/kalpeshattarde/AKcelerateHQ-Portfolio.github.io) |
 
 ## Connect With Me
@@ -201,7 +201,7 @@ The projects below are presented from a business-systems perspective: what was a
 
 ### AKcelerateHQ
 
-- **Website:** [akceleratehq.com](https://akceleratehq.com/)
+- **Website:** [akceleratehq.com](https://www.akceleratehq.com/)
 - **Email:** [akceleratehq@gmail.com](mailto:akceleratehq@gmail.com)
 - **WhatsApp:** [+91 82085 55380](https://wa.me/918208555380?text=Hi%20Kalpesh%2C%20I%20want%20to%20discuss%20an%20automation%20project)
 
